@@ -1,0 +1,4 @@
+wedding:
+  image: mattoddie/mattoddie.com
+  ports:
+    - "80:80"
